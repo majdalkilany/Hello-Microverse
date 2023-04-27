@@ -5,6 +5,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
@@ -22,6 +23,10 @@
 
 ### Tech Stack <a name="HTML&CSS"></a>
 
+### Key Features <a name="key-features"></a>
+
+- **[Hello-microverse ]**
+
 ## 🚀 Live Demo <a name="hello-micoverse"></a>
 
 - [Live Demo Link](https://majdalkilany.github.io/Hello-Microverse/)
@@ -29,6 +34,34 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
+
+**To work on thois project you will have to first clone it into your local machine and start working on it**
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+### Setup
+
+Clone this repository to your desired folder:
+
+`git clone git@github.com:majdalkilany/Hello-Microverse.git`
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 to get started with this project just visit this [link](https://majdalkilany.github.io/Hello-Microverse/)
 
